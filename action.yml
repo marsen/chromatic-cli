@@ -10,6 +10,8 @@ inputs:
     description: "Your github token"
   projectToken: 
     description: "Your chromatic project token"
+  workingDir: 
+    description: "Working directory for monorepo"
   appCode: 
     description: "Deprecated, please use projectToken instead"
   buildScriptName: 
